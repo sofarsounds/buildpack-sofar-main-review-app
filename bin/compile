@@ -1,0 +1,2 @@
+echo "Cloning fan-experience"
+git clone git@github.com:sofarsounds/fan-experience.git
